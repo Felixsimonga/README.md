@@ -7,7 +7,7 @@ Soy un estudiante apasionado por la tecnología, la administración de sistemas 
 ---
 
 ## 🚀 Sobre mí  
-- Estudiante de **CFGS ASIX** con especial interés en ciberseguridad.  
+- Estudiante de **CFGS ASIX** con especialidad en ciberseguridad.  
 - Enfocado en convertirme en **Administrador de Sistemas** con proyección hacia **Red Team / Seguridad Ofensiva**.  
 - Persona **disciplinada**, **persistente**, **creativa** y con **iniciativa**.  
 - Me gusta resolver problemas, aprender de forma autónoma y trabajar en entornos donde pueda aportar valor.
@@ -17,22 +17,17 @@ Soy un estudiante apasionado por la tecnología, la administración de sistemas 
 ## 🛠️ Tecnologías y herramientas  
 ### Sistemas  
 - Linux: **Debian, Ubuntu, Kubuntu, Kali**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
-- Windows (usuario avanzado)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
 
 ### Redes  
 - Configuración básica de redes  
 - **Packet Tracer**  
-- Subredes, routing, switching (conceptos)
+- Subredes, routing
 
 ### Ciberseguridad  
 - **Wireshark**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/>
 - **Nmap**  
-- Introducción a análisis de tráfico y reconocimiento
 
 ### Scripting  
 - **Bash** (conceptos y automatización básica)
@@ -42,11 +37,13 @@ Soy un estudiante apasionado por la tecnología, la administración de sistemas 
 - **HTML, CSS, PHP, JavaScript**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 
-### Sistemas y virtualización  
+### Sistemas y virtualización
+- **Vagrant, docker**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 
-### Bases de datos  
+### Bases de datos 
+- **mysql, mariadb**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>
 
@@ -61,7 +58,6 @@ Busco realizar **prácticas duales intensivas** en una empresa donde pueda desar
 - Educación Secundaria Obligatoria  
 - Bachillerato Tecnológico  
 - **CFGS ASIX — Administración de Sistemas Informáticos en Red**  
-  *(Especialidad en Ciberseguridad)*
 
 ---
 
@@ -91,9 +87,8 @@ Desarrollé habilidades de comunicación, planificación, paciencia y adaptació
 ---
 
 ## 📬 Contacto  
-- GitHub: **tu_usuario**  
-- Email: **tu_correo**  
-- (Opcional) Web personal: *pendiente de crear*  
+- Email: **fsimongaleote@gmail.com**  
+- Web personal 
 
 ---
 
