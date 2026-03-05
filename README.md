@@ -17,6 +17,7 @@ Soy un estudiante apasionado por la tecnología, la administración de sistemas 
 ## 🛠️ Tecnologías y herramientas  
 ### Sistemas  
 - Linux: **Debian, Ubuntu, Kubuntu, Kali**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
 
 ### Redes  
