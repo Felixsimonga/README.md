@@ -16,9 +16,11 @@ Soy un estudiante apasionado por la tecnología, la administración de sistemas 
 
 ## 🛠️ Tecnologías y herramientas  
 ### Sistemas  
-- Linux: **Debian, Ubuntu, Kubuntu, Kali**  
-- Windows (usuario avanzado)  
-- Virtualización: **Isard, VirtualBox**
+- Linux: **Debian, Ubuntu, Kubuntu, Kali**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> 
+- Windows (usuario avanzado)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+- Virtualización: **Isard, VirtualBox** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 
 ### Redes  
 - Configuración básica de redes  
@@ -86,8 +88,6 @@ Desarrollé habilidades de comunicación, planificación, paciencia y adaptació
 
 ## 📌 Próximos pasos  
 Estoy trabajando en nuevos proyectos relacionados con administración de sistemas, automatización y ciberseguridad, que iré publicando en este repositorio.
-
-## 🛠️ Tecnologías y herramientas  
 
 ### 🧩 Sistemas y virtualización  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
